@@ -1,0 +1,199 @@
+.center {
+    background: white;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 30%;
+    margin-bottom: 20%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+    width: 40%;
+    padding: 10px;
+}
+
+#divHomePageBottomDiv {
+    background-color: #8080ff;
+    height: 200px;
+    width: 1410px;
+}
+
+.hireExperts {
+    color: white;
+    margin-left: 80px;
+    margin-top: -8px;
+    font-size: 48px;
+}
+
+.hireExperts1 {
+    color: white;
+    margin-left: 80px;
+    margin-top: -16px;
+    font-size: 30px;  
+     
+}
+
+#h2 {
+    background-color: #8080ff;
+    height: 200px;
+    width: 1410px;
+    margin-top: -20px;
+}
+
+#h3 {
+    background-color: #8080ff;
+    height: 200px;
+    width: 1410px;
+    margin-top: -20px;
+}
+
+#h1 {
+    background-color: #8080ff;
+}
+
+.row > div{
+    float:left;
+    margin:10px;
+  }
+
+#profileImage {
+    background: white;
+    margin-top: 30%;
+    
+    margin-left: 5%;
+    margin-bottom: 20%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+#profileDescription {
+    background: white;
+    margin-top: 5%;
+    
+    margin-left: 2%;
+    margin-bottom: 20%;
+    border: 1px solid;
+    box-shadow: 5px 5px #888888;
+    width: 600px;
+    height: auto;
+    padding: 10px;
+    
+}
+
+#profileSkillsAndEditButton {
+    background: white;
+    margin-top: 5%;
+    
+    margin-left: 2%;
+    margin-bottom: 20%;
+    border: 1px solid;
+    box-shadow: 5px 5px #888888;
+    width: 400px;
+    height: auto;
+    padding: 10px;
+}
+
+#imageUploader {
+    margin-top: 200px;
+}
+
+textarea { vertical-align: top; }
+
+img {
+    max-width:100%;
+    max-height:100%;
+    object-fit: contain;
+}
+
+#h1LoginandSignup {
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+    height: 50px;
+    margin-left: 140px;
+}
+
+.Postproject {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+
+#holdPostProjectData {
+    width:auto;
+    height:auto;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.divProjectTable {
+    background: white;
+    margin-top: 3%;
+    margin-left: 4%;
+    margin-bottom: 20%;
+    width: 1300px;
+    height: auto;
+    
+}
+
+.divDashboardProjectTable {
+    background: white;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-bottom: 20%;
+    width: 1300px;
+    height: auto;
+    
+}
+
+#projectNameColomn {
+    width: 45%;
+}
+
+#employerColomn, #numberOfBidsColomn, #budgetRangeColomn, #bidNowColomn{
+    width: 17%;
+}
+
+.divBtnEmployerOrFreelancer {
+    float: right;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 10px;
+
+}
+#divProjectDetails {
+    background: white;
+    margin-top: 3%;
+    margin-left: 4%;
+    box-shadow: 5px 5px #888888;
+    padding: 10px;
+    margin-bottom: 3%;
+    width: 700px;
+    height: auto;
+}
+
+#div1 {
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+    height: auto;
+}
+
+#divListAllBidsTable {
+    width: 1300px;
+    height: auto;
+    margin-left: 3%;
+    background: white;
+}
+
+#divListHeader {
+    margin-left: 3%;
+}

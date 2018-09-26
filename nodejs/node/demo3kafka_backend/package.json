@@ -1,0 +1,17 @@
+{
+  "name": "demo3kafka_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "venky",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^2.2.3",
+    "mongodb": "^2.2.35",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}

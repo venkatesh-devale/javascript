@@ -1,0 +1,17 @@
+.center {
+    background: white;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 30%;
+    margin-bottom: 20%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+    width: 40%;
+    padding: 10px;
+}
+
+
+#h1LoginandSignup {
+    text-align: center;
+}

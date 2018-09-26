@@ -1,0 +1,16 @@
+{
+    "_id" : ObjectId("5ab8269c264c19194a124a2f"),
+    "username" : "12",
+    "password" : "$2a$10$7LJdHPpGdMTZ5pgPgau3eOQcYIvdPai6bOYQcsvNcX1K566bMYBNi",
+    "email" : "venkatesh@gmail.com",
+    "image_name" : "default.png"
+}
+
+db.users.updateOne(
+      { "username" : username },
+      { $set: { "email" : email } },
+      { $set: { "phone" : phone } },
+      { $set: { "aboutme" : aboutme } },
+      { $set: { "phone" : phone } },
+      { $set: { "skills" : skills } },
+   );
