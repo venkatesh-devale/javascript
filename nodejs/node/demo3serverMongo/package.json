@@ -18,7 +18,7 @@
     "express-session": "*",
     "express-validator": "*",
     "kafka-node": "^2.4.1",
-    "mongodb": "^3.0.5",
+    "mongodb": "^3.1.13",
     "mongoose": "*",
     "morgan": "~1.9.0",
     "mysql": "^2.15.0",
