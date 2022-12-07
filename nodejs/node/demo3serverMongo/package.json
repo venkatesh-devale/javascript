@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.18.2",
+    "body-parser": "~1.20.1",
     "client-sessions": "^0.8.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^2.0.1",
@@ -14,7 +14,7 @@
     "cors": "^2.8.4",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
-    "express": "~4.15.5",
+    "express": "~4.18.2",
     "express-session": "*",
     "express-validator": "*",
     "kafka-node": "^2.4.1",
